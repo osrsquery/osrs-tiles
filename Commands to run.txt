@@ -3,4 +3,4 @@ python gdal2tiles_parallel.py -p raster -z 3-11 -e map-1.png normal/1/
 python gdal2tiles_parallel.py -p raster -z 3-11 -e map-2.png normal/2/
 python gdal2tiles_parallel.py -p raster -z 3-11 -e map-3.png normal/3/
 
-python gdal2tiles_parallel.py -p raster -z 3-11 -e height-map-viewable.png heightmap/
+python gdal2tiles_parallel.py -p raster -z 3-11 -e height-map.png heightmap/0/
