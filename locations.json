@@ -1,3 +1,4 @@
+
 {
   "locations": [
     {
@@ -280,7 +281,7 @@
       "size": "default"
     },
     {
-      "name": "Black Knights' Fortress",
+      "name": "Black Knights\u0027 Fortress",
       "coords": [
         3025,
         3514,
@@ -433,7 +434,7 @@
       "size": "default"
     },
     {
-      "name": "Champions' Guild",
+      "name": "Champions\u0027 Guild",
       "coords": [
         3191,
         3360,
@@ -559,7 +560,7 @@
       "size": "default"
     },
     {
-      "name": "Cooks' Guild",
+      "name": "Cooks\u0027 Guild",
       "coords": [
         3143,
         3447,
@@ -577,7 +578,7 @@
       "size": "medium"
     },
     {
-      "name": "Cosmic entity's plane",
+      "name": "Cosmic entity\u0027s plane",
       "coords": [
         2079,
         4828,
@@ -658,7 +659,7 @@
       "size": "default"
     },
     {
-      "name": "Dark Warriors' Fortress",
+      "name": "Dark Warriors\u0027 Fortress",
       "coords": [
         3029,
         3630,
@@ -667,7 +668,7 @@
       "size": "default"
     },
     {
-      "name": "Dark Wizards' Tower",
+      "name": "Dark Wizards\u0027 Tower",
       "coords": [
         2908,
         3334,
@@ -802,7 +803,7 @@
       "size": "medium"
     },
     {
-      "name": "Druids' Circle",
+      "name": "Druids\u0027 Circle",
       "coords": [
         2925,
         3482,
@@ -838,7 +839,7 @@
       "size": "default"
     },
     {
-      "name": "Eagles' Peak",
+      "name": "Eagles\u0027 Peak",
       "coords": [
         2332,
         3486,
@@ -910,7 +911,7 @@
       "size": "default"
     },
     {
-      "name": "Enakhra's Temple Bottom Floor",
+      "name": "Enakhra\u0027s Temple Bottom Floor",
       "coords": [
         3104,
         9312,
@@ -1000,7 +1001,7 @@
       "size": "default"
     },
     {
-      "name": "Fenkenstrain's Castle",
+      "name": "Fenkenstrain\u0027s Castle",
       "coords": [
         3548,
         3554,
@@ -1009,7 +1010,7 @@
       "size": "default"
     },
     {
-      "name": "Fenkenstrain's Dungeon",
+      "name": "Fenkenstrain\u0027s Dungeon",
       "coords": [
         3519,
         9952,
@@ -1144,7 +1145,7 @@
       "size": "default"
     },
     {
-      "name": "Glarial's Tomb",
+      "name": "Glarial\u0027s Tomb",
       "coords": [
         2543,
         9827,
@@ -1252,7 +1253,7 @@
       "size": "default"
     },
     {
-      "name": "Gu'Tanoth",
+      "name": "Gu\u0027Tanoth",
       "coords": [
         2521,
         3043,
@@ -1297,7 +1298,7 @@
       "size": "default"
     },
     {
-      "name": "Heroes' Guild",
+      "name": "Heroes\u0027 Guild",
       "coords": [
         2896,
         3510,
@@ -1324,7 +1325,7 @@
       "size": "default"
     },
     {
-      "name": "Iban's Lair Lower Level",
+      "name": "Iban\u0027s Lair Lower Level",
       "coords": [
         2335,
         9855,
@@ -1360,7 +1361,7 @@
       "size": "medium"
     },
     {
-      "name": "Ice Queen's lair",
+      "name": "Ice Queen\u0027s lair",
       "coords": [
         2865,
         9954,
@@ -1594,7 +1595,7 @@
       "size": "default"
     },
     {
-      "name": "Land's End",
+      "name": "Land\u0027s End",
       "coords": [
         1509,
         3428,
@@ -1648,7 +1649,7 @@
       "size": "default"
     },
     {
-      "name": "Legends' Guild",
+      "name": "Legends\u0027 Guild",
       "coords": [
         2730,
         3377,
@@ -1657,7 +1658,7 @@
       "size": "default"
     },
     {
-      "name": "Legends' Guild Dungeon",
+      "name": "Legends\u0027 Guild Dungeon",
       "coords": [
         2720,
         9754,
@@ -1864,7 +1865,7 @@
       "size": "default"
     },
     {
-      "name": "McGrubor's Wood",
+      "name": "McGrubor\u0027s Wood",
       "coords": [
         2641,
         3480,
@@ -1882,7 +1883,7 @@
       "size": "medium"
     },
     {
-      "name": "Melzar's Maze",
+      "name": "Melzar\u0027s Maze",
       "coords": [
         2933,
         3248,
@@ -1972,7 +1973,7 @@
       "size": "medium"
     },
     {
-      "name": "Mort'ton",
+      "name": "Mort\u0027ton",
       "coords": [
         3487,
         3283,
@@ -1999,7 +2000,7 @@
       "size": "default"
     },
     {
-      "name": "Mos Le'Harmless",
+      "name": "Mos Le\u0027Harmless",
       "coords": [
         3709,
         3029,
@@ -2089,7 +2090,7 @@
       "size": "default"
     },
     {
-      "name": "Myth's Guild",
+      "name": "Myth\u0027s Guild",
       "coords": [
         2457,
         2843,
@@ -2098,7 +2099,7 @@
       "size": "default"
     },
     {
-      "name": "Myth's Guild Basement",
+      "name": "Myth\u0027s Guild Basement",
       "coords": [
         1977,
         9021,
@@ -2170,7 +2171,7 @@
       "size": "default"
     },
     {
-      "name": "Otto's Grotto",
+      "name": "Otto\u0027s Grotto",
       "coords": [
         2502,
         3488,
@@ -2215,7 +2216,7 @@
       "size": "default"
     },
     {
-      "name": "Pirate's Cove",
+      "name": "Pirate\u0027s Cove",
       "coords": [
         2205,
         3817,
@@ -2224,7 +2225,7 @@
       "size": "default"
     },
     {
-      "name": "Pirates' Hideout",
+      "name": "Pirates\u0027 Hideout",
       "coords": [
         3041,
         3950,
@@ -2458,7 +2459,7 @@
       "size": "default"
     },
     {
-      "name": "Rogue's Den",
+      "name": "Rogue\u0027s Den",
       "coords": [
         3047,
         4976,
@@ -2467,7 +2468,7 @@
       "size": "default"
     },
     {
-      "name": "Rogues' Castle",
+      "name": "Rogues\u0027 Castle",
       "coords": [
         3286,
         3931,
@@ -2530,7 +2531,7 @@
       "size": "default"
     },
     {
-      "name": "Seers' Village",
+      "name": "Seers\u0027 Village",
       "coords": [
         2701,
         3483,
@@ -2584,7 +2585,7 @@
       "size": "default"
     },
     {
-      "name": "Shayzien's Wall",
+      "name": "Shayzien\u0027s Wall",
       "coords": [
         1403,
         3535,
@@ -2674,7 +2675,7 @@
       "size": "default"
     },
     {
-      "name": "Sorcerer's Tower",
+      "name": "Sorcerer\u0027s Tower",
       "coords": [
         2702,
         3404,
@@ -2683,7 +2684,7 @@
       "size": "default"
     },
     {
-      "name": "Sorceress's Garden",
+      "name": "Sorceress\u0027s Garden",
       "coords": [
         2909,
         5472,
@@ -3133,7 +3134,7 @@
       "size": "default"
     },
     {
-      "name": "Void Knights' Outpost",
+      "name": "Void Knights\u0027 Outpost",
       "coords": [
         2639,
         2674,
@@ -3160,7 +3161,7 @@
       "size": "default"
     },
     {
-      "name": "Warriors' Guild",
+      "name": "Warriors\u0027 Guild",
       "coords": [
         2855,
         3543,
@@ -3169,7 +3170,7 @@
       "size": "default"
     },
     {
-      "name": "Warriors' Guild Basement",
+      "name": "Warriors\u0027 Guild Basement",
       "coords": [
         2920,
         9964,
@@ -3277,7 +3278,7 @@
       "size": "default"
     },
     {
-      "name": "White Knights' Castle",
+      "name": "White Knights\u0027 Castle",
       "coords": [
         2969,
         3341,
@@ -3340,7 +3341,7 @@
       "size": "default"
     },
     {
-      "name": "Wizards' Guild",
+      "name": "Wizards\u0027 Guild",
       "coords": [
         2583,
         3078,
@@ -3349,7 +3350,7 @@
       "size": "default"
     },
     {
-      "name": "Wizards' Tower",
+      "name": "Wizards\u0027 Tower",
       "coords": [
         3110,
         3157,
@@ -3367,7 +3368,7 @@
       "size": "default"
     },
     {
-      "name": "Xeric's Look out",
+      "name": "Xeric\u0027s Look out",
       "coords": [
         1590,
         3530,
@@ -3376,7 +3377,7 @@
       "size": "default"
     },
     {
-      "name": "Xeric's Shrine",
+      "name": "Xeric\u0027s Shrine",
       "coords": [
         1310,
         3619,
@@ -3430,12 +3431,3946 @@
       "size": "default"
     },
     {
-      "name": "Zulrah's shrine",
+      "name": "Zulrah\u0027s shrine",
       "coords": [
         2267,
         3074,
         0
       ]
+    },
+    {
+      "name": "Shadow warriors",
+      "coords": [
+        2700,
+        9774,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Pit scorpions",
+      "coords": [
+        2719,
+        9744,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Hobgoblins",
+      "coords": [
+        2699,
+        9688,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ardougne Sewers",
+      "coords": [
+        2644,
+        9702,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Zombies \u0026 rocks",
+      "coords": [
+        2675,
+        9682,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Bats",
+      "coords": [
+        2569,
+        9753,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ogres",
+      "coords": [
+        2585,
+        9738,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ogres",
+      "coords": [
+        2586,
+        9608,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dungeon rats",
+      "coords": [
+        2583,
+        9659,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Spiders",
+      "coords": [
+        2606,
+        9638,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Here be goblins",
+      "coords": [
+        2594,
+        9823,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Market",
+      "coords": [
+        2482,
+        4452,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Throne room",
+      "coords": [
+        2447,
+        4429,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Beware of the mushrooms",
+      "coords": [
+        2422,
+        4375,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Shrine",
+      "coords": [
+        2452,
+        4478,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Otherworldly beings",
+      "coords": [
+        2386,
+        4427,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Puro-puro",
+      "coords": [
+        2428,
+        4446,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Jail",
+      "coords": [
+        2826,
+        10076,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Goutweed store",
+      "coords": [
+        2856,
+        10084,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Troll generals",
+      "coords": [
+        2829,
+        10082,
+        2
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Wizards\u0027 Guild",
+      "coords": [
+        2586,
+        9489,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Salarin the Twisted",
+      "coords": [
+        2614,
+        9524,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Poison spiders",
+      "coords": [
+        2583,
+        9570,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Anger",
+      "coords": [
+        3279,
+        9837,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Hopelessness",
+      "coords": [
+        3279,
+        9807,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Confusion",
+      "coords": [
+        3314,
+        9802,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fear",
+      "coords": [
+        3314,
+        9842,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Cave crawlers",
+      "coords": [
+        2792,
+        10001,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Rock slugs",
+      "coords": [
+        2796,
+        10019,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Cockatrice",
+      "coords": [
+        2792,
+        10037,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Pyrefiends",
+      "coords": [
+        2761,
+        10012,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Basilisks",
+      "coords": [
+        2744,
+        10004,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Jellies",
+      "coords": [
+        2705,
+        10032,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Turoth",
+      "coords": [
+        2716,
+        10011,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Kurask",
+      "coords": [
+        2701,
+        10001,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fire giants",
+      "coords": [
+        3055,
+        10348,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Shadow spiders",
+      "coords": [
+        3017,
+        10332,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Chaos dwarves",
+      "coords": [
+        3024,
+        10306,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Hill giants",
+      "coords": [
+        3050,
+        10322,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Greater demons",
+      "coords": [
+        3022,
+        10246,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Black dragons",
+      "coords": [
+        3046,
+        10274,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "King Black Dragon",
+      "coords": [
+        2271,
+        4697,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Poison spiders",
+      "coords": [
+        3070,
+        10254,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Agility course spikes",
+      "coords": [
+        2999,
+        10356,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mage Arena bank",
+      "coords": [
+        2524,
+        4719,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Greater demons",
+      "coords": [
+        3079,
+        10088,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Green dragons",
+      "coords": [
+        3124,
+        10068,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Hellhounds",
+      "coords": [
+        3087,
+        10127,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Revenants",
+      "coords": [
+        3120,
+        10160,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lesser demons",
+      "coords": [
+        3053,
+        10139,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ice Queen\u0027s Lair",
+      "coords": [
+        2860,
+        9948,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fountain of Heroes",
+      "coords": [
+        2918,
+        9889,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mountain dwarves",
+      "coords": [
+        2853,
+        9872,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Nora T. Hagg\u0027s cellar",
+      "coords": [
+        2899,
+        9869,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Muggers",
+      "coords": [
+        3138,
+        4236,
+        2
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fight Pit",
+      "coords": [
+        4572,
+        5094,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fight Cave",
+      "coords": [
+        4611,
+        5132,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Library",
+      "coords": [
+        4628,
+        5173,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Moss giants",
+      "coords": [
+        2663,
+        9570,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dogs",
+      "coords": [
+        2666,
+        9523,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fire giants",
+      "coords": [
+        2664,
+        9495,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Red dragons",
+      "coords": [
+        2710,
+        9521,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Black demons",
+      "coords": [
+        2707,
+        9490,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Bronze dragons",
+      "coords": [
+        2736,
+        9497,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Iron \u0026 steel dragons",
+      "coords": [
+        2721,
+        9446,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fire giants",
+      "coords": [
+        2634,
+        9574,
+        2
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Greater demons",
+      "coords": [
+        2634,
+        9499,
+        2
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Agility Arena",
+      "coords": [
+        2784,
+        9568,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Jogres",
+      "coords": [
+        2848,
+        9504,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Skeletons",
+      "coords": [
+        2831,
+        9655,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Elvarg",
+      "coords": [
+        2856,
+        9638,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lesser demons",
+      "coords": [
+        2836,
+        9610,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lesser demons",
+      "coords": [
+        2834,
+        9561,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Skeletons",
+      "coords": [
+        2856,
+        9579,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Essence Mine",
+      "coords": [
+        2339,
+        10337,
+        2
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Trolls",
+      "coords": [
+        2400,
+        10272,
+        1
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Miscellania Expansion",
+      "coords": [
+        2518,
+        10258,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Sea snakes",
+      "coords": [
+        2600,
+        10275,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Saradomin\u0027s Encampment",
+      "coords": [
+        2924,
+        5290,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Zamorak\u0027s Fortress",
+      "coords": [
+        2907,
+        5356,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Armadyl\u0027s Eyrie",
+      "coords": [
+        2847,
+        5270,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Bandos\u0027s Stronghold",
+      "coords": [
+        2845,
+        5354,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ancient Prison",
+      "coords": [
+        2894,
+        5211,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dagannoth",
+      "coords": [
+        2467,
+        10147,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dagannoth",
+      "coords": [
+        2522,
+        10122,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Giant rock crabs",
+      "coords": [
+        2523,
+        10165,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Wallasalki",
+      "coords": [
+        2506,
+        10145,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Wallasalki",
+      "coords": [
+        1795,
+        4403,
+        3
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Giant rock crabs",
+      "coords": [
+        1836,
+        4410,
+        3
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dagannoth",
+      "coords": [
+        1826,
+        4374,
+        3
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Rock lobsters",
+      "coords": [
+        1972,
+        4400,
+        3
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Wallasalki",
+      "coords": [
+        1794,
+        4383,
+        2
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dagannoth",
+      "coords": [
+        1816,
+        4398,
+        2
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Giant rock crabs",
+      "coords": [
+        1812,
+        4367,
+        2
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dagannoth",
+      "coords": [
+        1849,
+        4382,
+        2
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Rock lobsters",
+      "coords": [
+        1939,
+        4390,
+        2
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Wallasalki",
+      "coords": [
+        1802,
+        4387,
+        1
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dagannoth",
+      "coords": [
+        1847,
+        4360,
+        1
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dagannoth",
+      "coords": [
+        1849,
+        4389,
+        1
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dagannoth",
+      "coords": [
+        1870,
+        4408,
+        1
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Rock lobsters",
+      "coords": [
+        1944,
+        4376,
+        1
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Rock lobsters",
+      "coords": [
+        1898,
+        4400,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dagannoth",
+      "coords": [
+        1895,
+        4368,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Rock lobsters",
+      "coords": [
+        1950,
+        4362,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dagannoth Kings",
+      "coords": [
+        2912,
+        4448,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Black Knights\u0027 Base",
+      "coords": [
+        2908,
+        9689,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Hellhounds",
+      "coords": [
+        2859,
+        9845,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fire Obelisk",
+      "coords": [
+        2812,
+        9836,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Black dragons",
+      "coords": [
+        2839,
+        9826,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Poison spiders",
+      "coords": [
+        2857,
+        9806,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dramen Tree",
+      "coords": [
+        2855,
+        9737,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Greater demons",
+      "coords": [
+        2846,
+        9752,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Chaos druids",
+      "coords": [
+        2931,
+        9850,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Animated axes",
+      "coords": [
+        2966,
+        9786,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Chaos dwarves",
+      "coords": [
+        2918,
+        9770,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lesser demons",
+      "coords": [
+        2933,
+        9790,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Blue dragons",
+      "coords": [
+        2908,
+        9807,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Black demons",
+      "coords": [
+        2863,
+        9780,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Poisonous scorpions",
+      "coords": [
+        2935,
+        9754,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Zombies",
+      "coords": [
+        2837,
+        9764,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Beware of the scorpions",
+      "coords": [
+        3052,
+        9809,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mining Guild",
+      "coords": [
+        3035,
+        9750,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Access to Falador",
+      "coords": [
+        3058,
+        9776,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Hammerspike\u0027s hangout",
+      "coords": [
+        2969,
+        9819,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Boot",
+      "coords": [
+        2985,
+        9806,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Distillery",
+      "coords": [
+        2152,
+        5102,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dead people",
+      "coords": [
+        2149,
+        5081,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Nothing interesting happens here",
+      "coords": [
+        2159,
+        5170,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Soldiers",
+      "coords": [
+        3474,
+        9493,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Guardians",
+      "coords": [
+        3510,
+        9498,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Queen\u0027s Chamber",
+      "coords": [
+        3488,
+        9504,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Palace",
+      "coords": [
+        2879,
+        10201,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "River Kelda",
+      "coords": [
+        2842,
+        10141,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dondakan\u0027s rock",
+      "coords": [
+        2836,
+        10166,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Minecarts",
+      "coords": [
+        2928,
+        10170,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Blast Furnace",
+      "coords": [
+        2933,
+        10209,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Brewery",
+      "coords": [
+        2914,
+        10188,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Black Guard H.Q.",
+      "coords": [
+        2827,
+        10213,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Library",
+      "coords": [
+        2862,
+        10225,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Trolls",
+      "coords": [
+        2790,
+        10132,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Banshees",
+      "coords": [
+        3360,
+        9408,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Kurask",
+      "coords": [
+        3279,
+        4394,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Cave crawlers",
+      "coords": [
+        3315,
+        4399,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Turoth",
+      "coords": [
+        3278,
+        4311,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Basilisks",
+      "coords": [
+        3312,
+        4300,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Earth warriors",
+      "coords": [
+        3148,
+        5516,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Nechryael",
+      "coords": [
+        3166,
+        5564,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Black demons",
+      "coords": [
+        3165,
+        5530,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dagannoth",
+      "coords": [
+        3152,
+        5552,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Turoth",
+      "coords": [
+        3155,
+        5540,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fire giants",
+      "coords": [
+        3208,
+        5517,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dust devils",
+      "coords": [
+        3171,
+        5514,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Waterfiends",
+      "coords": [
+        3181,
+        5545,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ice giants",
+      "coords": [
+        3217,
+        5558,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Moss giants",
+      "coords": [
+        3237,
+        5553,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fire giants",
+      "coords": [
+        3254,
+        5521,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Poison spiders",
+      "coords": [
+        3273,
+        5532,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dragons",
+      "coords": [
+        3305,
+        5562,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dragons",
+      "coords": [
+        3313,
+        5449,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Poison spiders",
+      "coords": [
+        3272,
+        5449,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Moss giants",
+      "coords": [
+        3204,
+        5493,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fire giants",
+      "coords": [
+        3226,
+        5501,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ice warriors \u0026 giants",
+      "coords": [
+        3215,
+        5448,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Gargoyles",
+      "coords": [
+        3180,
+        5479,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Skeletons \u0026 zombies",
+      "coords": [
+        3178,
+        5496,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Gift of Peace",
+      "coords": [
+        1907,
+        5222,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Grain of Plenty",
+      "coords": [
+        2022,
+        5216,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Box of Health",
+      "coords": [
+        2144,
+        5280,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Cradle of Life",
+      "coords": [
+        2344,
+        5214,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Melzar\u0027s Maze",
+      "coords": [
+        2930,
+        9644,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Muggers",
+      "coords": [
+        2998,
+        9544,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Pirates",
+      "coords": [
+        2990,
+        9576,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Hobgoblins",
+      "coords": [
+        3019,
+        9587,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ice warriors \u0026 giants",
+      "coords": [
+        3051,
+        9577,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Skeletal wyverns",
+      "coords": [
+        3057,
+        9547,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Clan Wars",
+      "coords": [
+        2997,
+        9672,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Agility course",
+      "coords": [
+        2720,
+        5248,
+        2
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Wire machine",
+      "coords": [
+        2715,
+        5270,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Bone collector",
+      "coords": [
+        2697,
+        5319,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Market",
+      "coords": [
+        2719,
+        5322,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Oldak\u0027s teleportation laboratory",
+      "coords": [
+        2704,
+        5368,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Station",
+      "coords": [
+        2696,
+        5277,
+        1
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Council chamber",
+      "coords": [
+        2718,
+        5367,
+        1
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ur-tag",
+      "coords": [
+        2733,
+        5366,
+        1
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ur-meg",
+      "coords": [
+        2692,
+        5304,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ur-zek \u0026 Ur-taal",
+      "coords": [
+        2716,
+        5344,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Tegdak",
+      "coords": [
+        2746,
+        5342,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ur-vass",
+      "coords": [
+        2723,
+        5331,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Nursery",
+      "coords": [
+        2742,
+        5337,
+        1
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Zanik\u0027s bedroom",
+      "coords": [
+        2744,
+        5351,
+        2
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Cave horrors \u0026 albino bats",
+      "coords": [
+        3775,
+        9407,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Lumbridge",
+      "coords": [
+        3239,
+        3234,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Varrock",
+      "coords": [
+        3211,
+        3450,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Kingdom of Misthalin",
+      "coords": [
+        3217,
+        3321,
+        0
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Al Kharid",
+      "coords": [
+        3297,
+        3150,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Duel Arena",
+      "coords": [
+        3361,
+        3233,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Shantay Pass",
+      "coords": [
+        3304,
+        3126,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Port Sarim",
+      "coords": [
+        3047,
+        3221,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Falador",
+      "coords": [
+        2989,
+        3355,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Edgeville",
+      "coords": [
+        3098,
+        3488,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Brimhaven",
+      "coords": [
+        2779,
+        3174,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Karamja",
+      "coords": [
+        2860,
+        3059,
+        0
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Crandor",
+      "coords": [
+        2839,
+        3271,
+        0
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Entrana",
+      "coords": [
+        2850,
+        3379,
+        0
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Draynor Village",
+      "coords": [
+        3120,
+        3267,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Jail",
+      "coords": [
+        3126,
+        3244,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Market",
+      "coords": [
+        3090,
+        3252,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Draynor Manor",
+      "coords": [
+        3108,
+        3345,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Desert Mining Camp",
+      "coords": [
+        3291,
+        3022,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Bedabin Camp",
+      "coords": [
+        3170,
+        3038,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Exam Centre",
+      "coords": [
+        3361,
+        3345,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Digsite",
+      "coords": [
+        3365,
+        3419,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lumber Yard",
+      "coords": [
+        3308,
+        3507,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Silvarea",
+      "coords": [
+        3364,
+        3491,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Palace",
+      "coords": [
+        3213,
+        3483,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Cooks\u0027 Guild",
+      "coords": [
+        3137,
+        3437,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dwarven Mine",
+      "coords": [
+        3016,
+        3441,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ice Mountain",
+      "coords": [
+        3009,
+        3487,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Black Knights\u0027 Fortress",
+      "coords": [
+        3018,
+        3561,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Goblin Village",
+      "coords": [
+        2963,
+        3502,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "White Knights\u0027 Castle",
+      "coords": [
+        2961,
+        3345,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Park",
+      "coords": [
+        3005,
+        3379,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Kingdom of Asgarnia",
+      "coords": [
+        2980,
+        3425,
+        0
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Dark Wizards\u0027 Tower",
+      "coords": [
+        2907,
+        3336,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Slayer Tower",
+      "coords": [
+        3424,
+        3536,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Melzar\u0027s Maze",
+      "coords": [
+        2931,
+        3248,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Rimmington",
+      "coords": [
+        2960,
+        3222,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Wizards\u0027 Tower",
+      "coords": [
+        3112,
+        3153,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lumbridge Swamp",
+      "coords": [
+        3189,
+        3162,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fishing Platform",
+      "coords": [
+        2775,
+        3287,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Tai Bwo Wannai",
+      "coords": [
+        2794,
+        3066,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Shilo Village",
+      "coords": [
+        2849,
+        2986,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Cairn Isle",
+      "coords": [
+        2764,
+        2979,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Kharazi Jungle",
+      "coords": [
+        2844,
+        2923,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Graveyard of Shadows",
+      "coords": [
+        3229,
+        3685,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Bandit Camp",
+      "coords": [
+        3036,
+        3689,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dark Warriors\u0027 Fortress",
+      "coords": [
+        3030,
+        3633,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ruins",
+      "coords": [
+        2966,
+        3697,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ruins",
+      "coords": [
+        3235,
+        3746,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "The Forgotten Cemetery",
+      "coords": [
+        2977,
+        3753,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Wilderness",
+      "coords": [
+        3144,
+        3773,
+        0
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Lava Maze",
+      "coords": [
+        3079,
+        3848,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Frozen Waste Plateau",
+      "coords": [
+        2972,
+        3919,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Agility Training Area",
+      "coords": [
+        3005,
+        3950,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Pirates\u0027 Hideout",
+      "coords": [
+        3043,
+        3948,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mage Arena",
+      "coords": [
+        3107,
+        3933,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Deserted Keep",
+      "coords": [
+        3156,
+        3937,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Scorpion Pit",
+      "coords": [
+        3236,
+        3945,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Rogues\u0027 Castle",
+      "coords": [
+        3286,
+        3931,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Demonic Ruins",
+      "coords": [
+        3293,
+        3884,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Heroes\u0027 Guild",
+      "coords": [
+        2914,
+        3522,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Druids\u0027 Circle",
+      "coords": [
+        2909,
+        3505,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Taverley",
+      "coords": [
+        2910,
+        3460,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "White Wolf Mountain",
+      "coords": [
+        2830,
+        3503,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Catherby",
+      "coords": [
+        2811,
+        3445,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Camelot Castle",
+      "coords": [
+        2763,
+        3505,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Seers\u0027 Village",
+      "coords": [
+        2692,
+        3489,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Sinclair Mansion",
+      "coords": [
+        2739,
+        3551,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Flax",
+      "coords": [
+        2744,
+        3445,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Beehives",
+      "coords": [
+        2767,
+        3443,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Sorcerer\u0027s Tower",
+      "coords": [
+        2718,
+        3415,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Keep Le Faye",
+      "coords": [
+        2770,
+        3399,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Legends\u0027 Guild",
+      "coords": [
+        2737,
+        3374,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Hemenster",
+      "coords": [
+        2626,
+        3440,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "McGrubor\u0027s Wood",
+      "coords": [
+        2647,
+        3480,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Coal Trucks",
+      "coords": [
+        2600,
+        3491,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fishing Guild",
+      "coords": [
+        2607,
+        3403,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Kingdom of Kandarin",
+      "coords": [
+        2578,
+        3443,
+        0
+      ],
+      "size": "large"
+    },
+    {
+      "name": "East Ardougne",
+      "coords": [
+        2597,
+        3298,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "West Ardougne",
+      "coords": [
+        2524,
+        3308,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Combat Training Camp",
+      "coords": [
+        2519,
+        3370,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Agility Training Area",
+      "coords": [
+        2481,
+        3426,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Tree Gnome Stronghold",
+      "coords": [
+        2433,
+        3454,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Grand Tree",
+      "coords": [
+        2469,
+        3504,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Swamp",
+      "coords": [
+        2419,
+        3513,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Gnome Ball Field",
+      "coords": [
+        2401,
+        3487,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Agility Training Area",
+      "coords": [
+        2534,
+        3538,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Barbarian Outpost",
+      "coords": [
+        2558,
+        3561,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Underground Pass",
+      "coords": [
+        2443,
+        3315,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Battlefield",
+      "coords": [
+        2522,
+        3232,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Baxtorian Falls",
+      "coords": [
+        2515,
+        3462,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Tree Gnome Village",
+      "coords": [
+        2528,
+        3174,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fight Arena",
+      "coords": [
+        2594,
+        3162,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Port Khazard",
+      "coords": [
+        2659,
+        3189,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Yanille",
+      "coords": [
+        2549,
+        3091,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Wizards\u0027 Guild",
+      "coords": [
+        2589,
+        3077,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Observatory",
+      "coords": [
+        2440,
+        3151,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Necromancer",
+      "coords": [
+        2669,
+        3243,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Gu\u0027Tanoth",
+      "coords": [
+        2528,
+        3046,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Feldip Hills",
+      "coords": [
+        2566,
+        2985,
+        0
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Ardougne Zoo",
+      "coords": [
+        2614,
+        3273,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Morytania",
+      "coords": [
+        3469,
+        3443,
+        0
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Mort Myre Swamp",
+      "coords": [
+        3439,
+        3383,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Canifis",
+      "coords": [
+        3491,
+        3487,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "River Salve",
+      "coords": [
+        3410,
+        3438,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "River Lum",
+      "coords": [
+        3167,
+        3350,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Agility Arena",
+      "coords": [
+        2815,
+        3193,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Burthorpe",
+      "coords": [
+        2895,
+        3549,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Death Plateau",
+      "coords": [
+        2865,
+        3592,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Tirannwn",
+      "coords": [
+        2241,
+        3220,
+        0
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Isafdar",
+      "coords": [
+        2243,
+        3186,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Arandar",
+      "coords": [
+        2340,
+        3296,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Tyras Camp",
+      "coords": [
+        2180,
+        3147,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Trollheim",
+      "coords": [
+        2892,
+        3678,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Troll Stronghold",
+      "coords": [
+        2835,
+        3681,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mort\u0027ton",
+      "coords": [
+        3491,
+        3281,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "The Hollows",
+      "coords": [
+        3500,
+        3384,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Poison Waste",
+      "coords": [
+        2241,
+        3098,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Castle Wars",
+      "coords": [
+        2432,
+        3111,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Champions\u0027 Guild",
+      "coords": [
+        3201,
+        3354,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Rellekka",
+      "coords": [
+        2672,
+        3681,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Golden Apple Tree",
+      "coords": [
+        2765,
+        3608,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lighthouse",
+      "coords": [
+        2514,
+        3628,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fremennik Province",
+      "coords": [
+        2679,
+        3632,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Crafting Guild",
+      "coords": [
+        2921,
+        3282,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Haunted Woods",
+      "coords": [
+        3567,
+        3488,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Miscellania",
+      "coords": [
+        2545,
+        3879,
+        0
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Etceteria",
+      "coords": [
+        2609,
+        3874,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Ape Atoll",
+      "coords": [
+        2755,
+        2755,
+        0
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Crash Island",
+      "coords": [
+        2915,
+        2723,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Marim",
+      "coords": [
+        2773,
+        2784,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Fenkenstrain\u0027s Castle",
+      "coords": [
+        3551,
+        3551,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mausoleum",
+      "coords": [
+        3502,
+        3572,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Trollweiss Mountain",
+      "coords": [
+        2781,
+        3864,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Abandoned Mine",
+      "coords": [
+        3444,
+        3243,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ruins of Uzer",
+      "coords": [
+        3479,
+        3098,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "River Elid",
+      "coords": [
+        3371,
+        3068,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Pollnivneach",
+      "coords": [
+        3356,
+        2980,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Bandit Camp",
+      "coords": [
+        3175,
+        2977,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Pyramid",
+      "coords": [
+        3235,
+        2897,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Menaphos",
+      "coords": [
+        3187,
+        2783,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Sophanem",
+      "coords": [
+        3298,
+        2783,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Agility Pyramid",
+      "coords": [
+        3363,
+        2842,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Port Phasmatys",
+      "coords": [
+        3673,
+        3487,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Ectofuntus",
+      "coords": [
+        3659,
+        3520,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mountain Camp",
+      "coords": [
+        2784,
+        3670,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Kharidian Desert",
+      "coords": [
+        3263,
+        2957,
+        0
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Barrows",
+      "coords": [
+        3566,
+        3291,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Jiggig",
+      "coords": [
+        2464,
+        3047,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mudskipper Point",
+      "coords": [
+        2990,
+        3118,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Nardah",
+      "coords": [
+        3429,
+        2902,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mage Training Arena",
+      "coords": [
+        3363,
+        3303,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Keldagrim Entrance",
+      "coords": [
+        2714,
+        3713,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Waterbirth Island",
+      "coords": [
+        2522,
+        3756,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lletya",
+      "coords": [
+        2346,
+        3180,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Burgh de Rott",
+      "coords": [
+        3497,
+        3219,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Lizards",
+      "coords": [
+        3423,
+        3040,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Quarry",
+      "coords": [
+        3172,
+        2904,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Outpost",
+      "coords": [
+        2435,
+        3355,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mos Le\u0027Harmless",
+      "coords": [
+        3725,
+        3028,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Distilleries",
+      "coords": [
+        3786,
+        2998,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ranging Guild",
+      "coords": [
+        2664,
+        3441,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dragontooth Island",
+      "coords": [
+        3808,
+        3560,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Piscatoris Fishing Colony",
+      "coords": [
+        2345,
+        3693,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Void Knights\u0027 Outpost",
+      "coords": [
+        2635,
+        2680,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lunar Isle",
+      "coords": [
+        2141,
+        3877,
+        0
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Pirates\u0027 Cove",
+      "coords": [
+        2206,
+        3815,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Vultures",
+      "coords": [
+        3347,
+        2871,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Port Tyras",
+      "coords": [
+        2155,
+        3122,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Castle Drakan",
+      "coords": [
+        3555,
+        3359,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Meiyerditch",
+      "coords": [
+        3619,
+        3263,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Witchaven",
+      "coords": [
+        2710,
+        3291,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Warriors\u0027 Guild",
+      "coords": [
+        2854,
+        3564,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Musa Point",
+      "coords": [
+        2895,
+        3164,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Eagles\u0027 Peak",
+      "coords": [
+        2337,
+        3486,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Falconer",
+      "coords": [
+        2376,
+        3607,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Barbarian Assault",
+      "coords": [
+        2519,
+        3574,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Iceberg",
+      "coords": [
+        2681,
+        4045,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Pest Control",
+      "coords": [
+        2687,
+        2642,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Neitiznot",
+      "coords": [
+        2320,
+        3821,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Jatizso",
+      "coords": [
+        2392,
+        3822,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Fremennik Isles",
+      "coords": [
+        2367,
+        3879,
+        0
+      ],
+      "size": "large"
+    },
+    {
+      "name": "Tower of Life",
+      "coords": [
+        2650,
+        3213,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Clocktower",
+      "coords": [
+        2573,
+        3242,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Harmony",
+      "coords": [
+        3808,
+        2863,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Trawler",
+      "coords": [
+        2692,
+        3168,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Otto\u0027s Grotto",
+      "coords": [
+        2502,
+        3489,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "God Wars Dungeon",
+      "coords": [
+        2919,
+        3755,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Grand Exchange",
+      "coords": [
+        3165,
+        3496,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Volcano",
+      "coords": [
+        3367,
+        3949,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Citharede Abbey",
+      "coords": [
+        3422,
+        3163,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Prifddinas",
+      "coords": [
+        4576,
+        2656,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Barbarian Village",
+      "coords": [
+        3060,
+        3432,
+        0
+      ],
+      "size": "medium"
+    },
+    {
+      "name": "Altar",
+      "coords": [
+        3316,
+        4810,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lizards \u0026 Zamorak fighters",
+      "coords": [
+        3274,
+        4810,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Exit",
+      "coords": [
+        3166,
+        4547,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Terror dogs",
+      "coords": [
+        3149,
+        4648,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "H.A.M. Cult",
+      "coords": [
+        3167,
+        9635,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Draynor Sewers",
+      "coords": [
+        3104,
+        9655,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mine",
+      "coords": [
+        3327,
+        9632,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Watermill cellar",
+      "coords": [
+        3240,
+        9704,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Champions\u0027 Challenge",
+      "coords": [
+        3168,
+        9768,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Draynor Manor basement",
+      "coords": [
+        3072,
+        9763,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "VTAM Corporation",
+      "coords": [
+        3245,
+        9773,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Bank vault",
+      "coords": [
+        3196,
+        9822,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Goblin Maze",
+      "coords": [
+        3264,
+        9630,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Chasm of Tears",
+      "coords": [
+        3230,
+        9517,
+        2
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Tears of Guthix",
+      "coords": [
+        3260,
+        9522,
+        2
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lumbridge Castle cellar",
+      "coords": [
+        3220,
+        9620,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Giant frogs",
+      "coords": [
+        3230,
+        9546,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Hill giants",
+      "coords": [
+        3110,
+        9838,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Chronozon",
+      "coords": [
+        3086,
+        9926,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Here be dead stuff",
+      "coords": [
+        3263,
+        9904,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Thugs",
+      "coords": [
+        3130,
+        9935,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dave\u0027s Basement of Doom",
+      "coords": [
+        3080,
+        9888,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Poison spiders",
+      "coords": [
+        3088,
+        9951,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Skeletons \u0026 zombies",
+      "coords": [
+        3121,
+        9899,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Earth warriors",
+      "coords": [
+        3119,
+        9996,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Skeletons",
+      "coords": [
+        3109,
+        9942,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Black demons",
+      "coords": [
+        3092,
+        9965,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Chaos druids",
+      "coords": [
+        3112,
+        9926,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Hobgoblins",
+      "coords": [
+        3123,
+        9865,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Rats",
+      "coords": [
+        3239,
+        9872,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Exit",
+      "coords": [
+        3654,
+        4949,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Exit",
+      "coords": [
+        3651,
+        5120,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Mithril dragons",
+      "coords": [
+        1760,
+        5344,
+        1
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Hellhounds",
+      "coords": [
+        1649,
+        5256,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Greater demons",
+      "coords": [
+        1608,
+        5258,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Blue dragons",
+      "coords": [
+        1605,
+        5281,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Gargoyles",
+      "coords": [
+        1610,
+        5302,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Abyssal demons",
+      "coords": [
+        1638,
+        5304,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Dark beasts",
+      "coords": [
+        1654,
+        5291,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Iron dragons",
+      "coords": [
+        1649,
+        5272,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Steel dragons",
+      "coords": [
+        1629,
+        5281,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Bloodvelds",
+      "coords": [
+        3559,
+        9738,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Ectofuntus",
+      "coords": [
+        3680,
+        9888,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Obstacle course",
+      "coords": [
+        3537,
+        9889,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Skullball",
+      "coords": [
+        3560,
+        9866,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Shades",
+      "coords": [
+        3488,
+        9696,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Queen\u0027s Chamber",
+      "coords": [
+        2966,
+        1707,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Tanglefeet",
+      "coords": [
+        2336,
+        4381,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Greater demons",
+      "coords": [
+        3079,
+        10088,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Green dragons",
+      "coords": [
+        3124,
+        10068,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Hellhounds",
+      "coords": [
+        3087,
+        10127,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Revenants",
+      "coords": [
+        3120,
+        10160,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Lesser demons",
+      "coords": [
+        3053,
+        10139,
+        0
+      ],
+      "size": "default"
+    },
+    {
+      "name": "Graveyard",
+      "coords": [
+        4258,
+        779,
+        0
+      ],
+      "size": "default"
     }
   ]
 }
+
