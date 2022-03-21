@@ -1,30 +1,158 @@
 [
    {
-      "name":"Afghanistan",
-      "pos":[
-         0,
-         0,
-         0
-      ]
+      "name":"Runescape Surface",
+      "position":[0,0,0]
    },
    {
-      "name":"Åland Islands",
-      "pos":[
-         0,
-         0,
-         0
-      ]
+      "name":"Ancient Cavern",
+      "position":[0,0,0]
    },
    {
-      "name":"Albania",
-      "code":"AL"
+      "name":"Ardounge Underground",
+      "position":[0,0,0]
    },
    {
-      "name":"Algeria",
-      "pos":[
-         0,
-         0,
-         0
-      ]
-   }
+      "name":"Asgarnia Ice Cave",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Brandeath Island",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Dorgesh-Kaan",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Dwarven Mines",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Feldip Hills Underground",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Fossil Isalnd Underground",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Fremennik Slayer Cave",
+      "position":[0,0,0]
+   },
+   {
+      "name":"God Wars Dungeon",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Kalphite Hives",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Karamja Underground",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Kebos Underground",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Keldagrim",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Kurend Underground",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Lair of Tar razerlor",
+      "position":[0,0,0]
+   },
+   {
+      "name":"LMS Deser Isalnd",
+      "position":[0,0,0]
+   },
+   {
+      "name":"LMS Wild Varrock",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Miscellania Underground",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Misthalin Underground",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Mole Hole",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Mor UI Rek",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Morytainia Underground",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Mos Le'Harmless Cave",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Ourania Alter",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Prifddinas Grand Library",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Prifddinas Underground",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Ruins of Camdozaal",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Stronghold of Security",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Taverley Underground",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Tolna's Rift",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Troll Stronghold",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Tutorial Island",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Waterbirth Dungeon",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Wilderness Dungeon",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Yanile Underground",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Zanaris",
+      "position":[0,0,0]
+   },
+   {
+      "name":"Abyss",
+      "position":[0,0,0]
+   },
 ]
