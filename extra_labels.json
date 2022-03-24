@@ -1,0 +1,699 @@
+{
+   "locations":[
+      {
+         "type":"teleport_normal",
+         "coords":[3213,3424,0],
+         "icon":"varrock_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_normal",
+         "coords":[3164, 3478, 0],
+         "icon":"varrock_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_normal",
+         "coords":[3222, 3218, 0],
+         "icon":"lumbridge_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_normal",
+         "coords":[2965, 3381, 0],
+         "icon":"falador_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_normal",
+         "coords":[2726, 3485, 0],
+         "icon":"camelot_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_normal",
+         "coords":[2664, 3306, 0],
+         "icon":"ardougne_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_normal",
+         "coords":[2547, 3114, 0],
+         "icon":"watchtower_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_normal",
+         "coords":[2584, 3097, 0],
+         "icon":"watchtower_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_normal",
+         "coords":[2891, 3678, 0],
+         "icon":"trollheim_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_normal",
+         "coords":[2796, 2791, 0],
+         "icon":"ape_atoll_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_normal",
+         "coords":[1643, 3672, 0],
+         "icon":"kourend_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_ancient",
+         "coords":[3097, 9880, 0],
+         "icon":"paddewwa_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_ancient",
+         "coords":[3319, 3336, 0],
+         "icon":"senntisten_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_ancient",
+         "coords":[3494, 3473, 0],
+         "icon":"kharyrll_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_ancient",
+         "coords":[3002, 3472, 0],
+         "icon":"lassar_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_ancient",
+         "coords":[2969, 3695, 0],
+         "icon":"dareeyak_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_ancient",
+         "coords":[3157, 3667, 0],
+         "icon":"carrallangar_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_ancient",
+         "coords":[3288, 3888, 0],
+         "icon":"annakarl_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_ancient",
+         "coords":[2977, 3872, 0],
+         "icon":"ghorrock_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_luner",
+         "coords":[2113, 3915, 0],
+         "icon":"moonclan_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_luner",
+         "coords":[2468, 3246, 0],
+         "icon":"ourania_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_luner",
+         "coords":[2546, 3755, 0],
+         "icon":"waterbirth_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_luner",
+         "coords":[2543, 3568, 0],
+         "icon":"barbarian_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_luner",
+         "coords":[2636, 3167, 0],
+         "icon":"khazard_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_luner",
+         "coords":[2612, 3391, 0],
+         "icon":"fishing_guild_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_luner",
+         "coords":[2802, 3449, 0],
+         "icon":"catherby_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_luner",
+         "coords":[2973, 3939, 0],
+         "icon":"ice_plateau_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_arceuus",
+         "coords":[3565, 3315, 0],
+         "icon":"arceuus_library_teleport_icon_arceuus.png"
+      },
+	  {
+         "type":"teleport_arceuus",
+         "coords":[2770, 2703, 0],
+         "icon":"ape_atoll_teleport_icon_arceuus.png"
+      },
+	  {
+         "type":"teleport_arceuus",
+         "coords":[1632, 3838, 0],
+         "icon":"barrows_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_arceuus",
+         "coords":[2978, 3763, 0],
+         "icon":"cemetery_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_arceuus",
+         "coords":[3797, 2866, 0],
+         "icon":"harmony_island_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_arceuus",
+         "coords":[2500, 3291, 0],
+         "icon":"west_ardougne_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_arceuus",
+         "coords":[3548, 3528, 0],
+         "icon":"fenkenstrains_castle_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_arceuus",
+         "coords":[3433, 3461, 0],
+         "icon":"salve_graveyard_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_arceuus",
+         "coords":[3433, 3461, 0],
+         "icon":"mind_altar_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_arceuus",
+         "coords":[1349, 3739, 0],
+         "icon":"battlefront_teleport_icon.png"
+      },
+	  {
+         "type":"teleport_arceuus",
+         "coords":[3108, 3352, 0],
+         "icon":"draynor_manor_teleport_icon.png"
+      },
+	  {
+         "type":"scroll",
+         "coords":[3324, 3412, 0],
+         "icon":"digsite.png"
+      },
+	  {
+         "type":"scroll",
+         "coords":[2193, 3257, 0],
+         "icon":"iorwerth.png"
+      },
+	  {
+         "type":"scroll",
+         "coords":[2542, 2925, 0],
+         "icon":"feldip.png"
+      },
+	  {
+         "type":"scroll",
+         "coords":[3303, 3487, 0],
+         "icon":"lumberyard.png"
+      },
+	  {
+         "type":"scroll",
+         "coords":[2093, 3912, 0],
+         "icon":"lunar.png"
+      },
+	  {
+         "type":"scroll",
+         "coords":[3489, 3288, 0],
+         "icon":"mortton.png"
+      },
+	  {
+         "type":"scroll",
+         "coords":[3701, 2996, 0],
+         "icon":"mosleharmless.png"
+      },
+	  {
+         "type":"scroll",
+         "coords":[3421, 2917, 0],
+         "icon":"nardah.png"
+      },
+	  {
+         "type":"scroll",
+         "coords":[2657, 2660, 0],
+         "icon":"pestcontrol.png"
+      },
+	  {
+         "type":"scroll",
+         "coords":[2339, 3648, 0],
+         "icon":"piscatoris.png"
+      },
+	  {
+         "type":"scroll",
+         "coords":[2788, 3066, 0],
+         "icon":"taibwowannai.png"
+      },
+	  {
+         "type":"scroll",
+         "coords":[2197, 3056, 0],
+         "icon":"zulandra.png"
+      },
+	  {
+         "type":"scroll",
+         "coords":[2686, 9882, 0],
+         "icon":"keymaster.png"
+      },
+	  {
+         "type":"scroll",
+         "coords":[3127, 3833, 0],
+         "icon":"revenant.png"
+      },
+	  {
+         "type":"scroll",
+         "coords":[1645, 3579, 0],
+         "icon":"watson.png"
+      },
+	  {
+         "type":"diary",
+         "coords":[2606, 3222, 0],
+         "icon":"ArdougneCloak1.png"
+      },
+	  {
+         "type":"diary",
+         "coords":[2673, 3375, 0],
+         "icon":"ArdougneCloak2.png"
+      },
+	  {
+         "type":"diary",
+         "coords":[3052, 3292, 0],
+         "icon":"ExplorersRing2.png"
+      },
+	  {
+         "type":"diary",
+         "coords":[2827, 2997, 0],
+         "icon":"KaramjaGloves3.png"
+      },
+	  {
+         "type":"diary",
+         "coords":[2870, 2981, 0],
+         "icon":"KaramjaGloves3.png"
+      },
+	  {
+         "type":"diary",
+         "coords":[3425, 2928, 0],
+         "icon":"DesertAmulet2.png"
+      },
+	  {
+         "type":"diary",
+         "coords":[3322, 3122, 0],
+         "icon":"DesertAmulet2.png"
+      },
+	  {
+         "type":"diary",
+         "coords":[3654, 3516, 0],
+         "icon":"MorytaniaLegs2.png"
+      },
+	  {
+         "type":"diary",
+         "coords":[3482, 3231, 0],
+         "icon":"MorytaniaLegs3.png"
+      },
+	  {
+         "type":"diary",
+         "coords":[2640, 3675, 0],
+         "icon":"FremennikBoots4.png"
+      },
+	  {
+         "type":"diary",
+         "coords":[2729, 3411, 0],
+         "icon":"KandarinHead3.png"
+      },
+	  {
+         "type":"diary",
+         "coords":[3377, 3891, 0],
+         "icon":"WildSword3.png"
+      },
+	  {
+         "type":"diary",
+         "coords":[2329, 3685, 0],
+         "icon":"WesternBanner3.png"
+      },
+	  {
+         "type":"diary",
+         "coords":[1311, 3795, 0],
+         "icon":"Radas.png"
+      },
+	  {
+         "type":"diary",
+         "coords":[1553, 3454, 0],
+         "icon":"Radas.png"
+      },
+	  {
+         "type":"wilderness",
+         "coords":[3156, 3620, 0],
+         "icon":"wilderness_13.png"
+      },
+	  {
+         "type":"wilderness",
+         "coords":[3227, 3667, 0],
+         "icon":"wilderness_19.png"
+      },
+	  {
+         "type":"wilderness",
+         "coords":[3035, 3732, 0],
+         "icon":"wilderness_27.png"
+      },
+	  {
+         "type":"wilderness",
+         "coords":[3106, 3794, 0],
+         "icon":"wilderness_35.png"
+      },
+	  {
+         "type":"wilderness",
+         "coords":[2980, 3866, 0],
+         "icon":"wilderness_44.png"
+      },
+      {
+         "type":"wilderness",
+         "coords":[3307, 3916, 0],
+         "icon":"wilderness_50.png"
+      },
+      {
+         "type":"misc",
+         "coords":[1576, 3528, 0],
+         "icon":"xerics_talisman_teleport_icon.png"
+      },
+      {
+         "type":"misc",
+         "coords":[1754, 3564, 0],
+         "icon":"xerics_talisman_teleport_icon.png"
+      },
+      {
+         "type":"misc",
+         "coords":[1504, 3819, 0],
+         "icon":"xerics_talisman_teleport_icon.png"
+      },
+      {
+         "type":"misc",
+         "coords":[1641, 3670, 0],
+         "icon":"xerics_talisman_teleport_icon.png"
+      },
+      {
+         "type":"misc",
+         "coords":[1254, 3559, 0],
+         "icon":"xerics_talisman_teleport_icon.png"
+      },
+      {
+         "type":"misc",
+         "coords":[3081, 3421, 0],
+         "icon":"skull_sceptre_teleport_icon.png"
+      },
+      {
+         "type":"misc",
+         "coords":[2458, 2851, 0],
+         "icon":"mythical_cape_teleport_icon.png"
+      },
+	  {
+         "type":"misc",
+         "coords":[3660, 3522, 0],
+         "icon":"ectophial_teleport_icon.png"
+      },
+	  {
+         "type":"misc",
+         "coords":[3202, 3357, 0],
+         "icon":"chronicle_teleport_icon.png"
+      },
+	  {
+         "type":"misc",
+         "coords":[2465, 3495, 0],
+         "icon":"royal_seed_pod_teleport_icon.png"
+      },	 
+	  {
+         "type":"misc",
+         "coords":[2336, 3801, 0],
+         "icon":"enchanted_lyre_teleport_icon.png"
+      },
+	  {
+         "type":"misc",
+         "coords":[2409, 3809, 0],
+         "icon":"enchanted_lyre_teleport_icon.png"
+      },
+	  {
+         "type":"misc",
+         "coords":[2846, 3940, 0],
+         "icon":"icy_basalt_teleport_icon.png"
+      },
+	  {
+         "type":"misc",
+         "coords":[2838, 3693, 0],
+         "icon":"stony_basalt_teleport_icon.png"
+      },
+	  {
+         "type":"misc",
+         "coords":[1713, 3612, 0],
+         "icon":"kharedsts_memoirs_teleport_icon.png"
+      },
+	  {
+         "type":"misc",
+         "coords":[1802, 3748, 0],
+         "icon":"kharedsts_memoirs_teleport_icon.png"
+      },
+	  {
+         "type":"misc",
+         "coords":[1478, 3576, 0],
+         "icon":"kharedsts_memoirs_teleport_icon.png"
+      },	
+	  {
+         "type":"misc",
+         "coords":[1544, 3762, 0],
+         "icon":"kharedsts_memoirs_teleport_icon.png"
+      },
+	  {
+         "type":"misc",
+         "coords":[1680, 3746, 0],
+         "icon":"kharedsts_memoirs_teleport_icon.png"
+      },
+	  {
+         "type":"misc",
+         "coords":[3288, 2795, 0],
+         "icon":"pharaohs_sceptre_teleport_icon.png"
+      },
+	  {
+         "type":"misc",
+         "coords":[3341, 2827, 0],
+         "icon":"pharaohs_sceptre_teleport_icon.png"
+      },	
+	  {
+         "type":"misc",
+         "coords":[3232, 2897, 0],
+         "icon":"pharaohs_sceptre_teleport_icon.png"
+      },	
+	  {
+         "type":"misc",
+         "coords":[3190, 2923, 0],
+         "icon":"camulet_teleport_icon.png"
+      },	  
+	  {
+         "type":"misc",
+         "coords":[2330, 3172, 0],
+         "icon":"teleport_crystal_icon.png"
+      },	
+	  {
+         "type":"misc",
+         "coords":[3264, 6065, 0],
+         "icon":"teleport_crystal_icon.png"
+      },	
+	  {
+         "type":"misc",
+         "coords":[3649, 3230, 0],
+         "icon":"drakans_medallion_teleport_icon.png"
+      },
+	  {
+         "type":"misc",
+         "coords":[3592, 3337, 0],
+         "icon":"drakans_medallion_teleport_icon.png"
+      },
+      {
+         "type":"poh",
+         "coords":[2951, 3221, 0],
+         "icon":"house.png"
+      },
+	  {
+         "type":"poh",
+         "coords":[1761, 3549, 0],
+         "icon":"house.png"
+      },
+	  {
+         "type":"poh",
+         "coords":[1761, 3549, 0],
+         "icon":"house.png"
+      },
+	  {
+         "type":"poh",
+         "coords":[1741, 3514, 0],
+         "icon":"house.png"
+      },
+	  {
+         "type":"poh",
+         "coords":[2668, 3627, 0],
+         "icon":"house.png"
+      },
+	  {
+         "type":"poh",
+         "coords":[2756, 3175, 0],
+         "icon":"house.png"
+      },
+	  {
+         "type":"poh",
+         "coords":[2544, 3095, 0],
+         "icon":"house.png"
+      },
+	  {
+         "type":"poh",
+         "coords":[3241, 6067, 0],
+         "icon":"house.png"
+      },
+	  {
+         "type":"balloon",
+         "coords":[2480, 3457, 0],
+         "icon":"BlueBalloon.png"
+      },
+	  {
+         "type":"balloon",
+         "coords":[2492, 3169, 0],
+         "icon":"GreenBalloon.png"
+      },
+	  {
+         "type":"balloon",
+         "coords":[3241, 6067, 0],
+         "icon":"PurpleBalloon.png"
+      },
+	  {
+         "type":"balloon",
+         "coords":[3336, 3512, 0],
+         "icon":"RedBalloon.png"
+      },
+	  {
+         "type":"balloon",
+         "coords":[3299, 3479, 0],
+         "icon":"WhiteBalloon.png"
+      },
+	  {
+         "type":"balloon",
+         "coords":[2937, 3419, 0],
+         "icon":"YellowBalloon.png"
+      },
+	  {
+         "type":"glider",
+         "coords":[2712, 2804, 0],
+         "icon":"Glider.png"
+      },
+	  {
+         "type":"glider",
+         "coords":[2541, 2970, 0],
+         "icon":"Glider.png"
+      }, 
+	  {
+         "type":"glider",
+         "coords":[2919, 3054, 0],
+         "icon":"Glider.png"
+      }, 
+	  {
+         "type":"glider",
+         "coords":[3281, 3210, 0],
+         "icon":"Glider.png"
+      }, 
+	  {
+         "type":"glider",
+         "coords":[2463, 3503,3],
+         "icon":"Glider.png"
+      }, 
+	  {
+         "type":"glider",
+         "coords":[2848, 3500, 0],
+         "icon":"Glider.png"
+      }, 
+	  {
+         "type":"glider",
+         "coords":[3324, 3430, 0],
+         "icon":"GliderRed.png"
+      },
+	  {
+         "type":"spirittrees",
+         "coords":[1300, 3766, 0],
+         "icon":"SpiritTree.png"
+      },
+      {
+         "type":"spirittrees",
+         "coords":[1659, 3541, 0],
+         "icon":"SpiritTree.png"
+      },
+      {
+         "type":"spirittrees",
+         "coords":[3127,32623430, 0],
+         "icon":"SpiritTree.png"
+      },   
+      {
+         "type":"spirittrees",
+         "coords":[3082, 3207, 0],
+         "icon":"SpiritTree.png"
+      },   
+      {
+         "type":"spirittrees",
+         "coords":[2514, 3885, 0],
+         "icon":"SpiritTree.png"
+      },   
+      {
+         "type":"spirittrees",
+         "coords":[3113, 3438, 0],
+         "icon":"SpiritTree.png"
+      },   
+      {
+         "type":"spirittrees",
+         "coords":[2487, 2850, 0],
+         "icon":"SpiritTree.png"
+      },   
+      {
+         "type":"spirittrees",
+         "coords":[3184, 3509, 0],
+         "icon":"SpiritTree.png"
+      },   
+      {
+         "type":"spirittrees",
+         "coords":[2554, 3256, 0],
+         "icon":"SpiritTree.png"
+      },   
+      {
+         "type":"spirittrees",
+         "coords":[2539, 3166, 0],
+         "icon":"SpiritTree.png"
+      },   
+      {
+         "type":"spirittrees",
+         "coords":[2466, 3495, 0],
+         "icon":"SpiritTree.png"
+      },	
+      {
+         "type":"canoe",
+         "coords":[3142, 3793, 0],
+         "icon":"Canoe.png"
+      },	
+      {
+         "type":"canoe",
+         "coords":[3244, 3236, 0],
+         "icon":"Canoe.png"
+      },
+      {
+         "type":"canoe",
+         "coords":[3202, 3343, 0],
+         "icon":"Canoe.png"
+      },
+      {
+         "type":"canoe",
+         "coords":[3114, 3408, 0],
+         "icon":"Canoe.png"
+      },
+      {
+         "type":"canoe",
+         "coords":[3130, 3509, 0],
+         "icon":"Canoe.png"
+      },
+      {
+         "type":"canoe",
+         "coords":[3155, 3628, 0],
+         "icon":"Canoe.png"
+      }  
+   ]
+}
